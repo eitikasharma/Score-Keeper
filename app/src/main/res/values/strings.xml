@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="MainHeading">American Football</string>
+    <string name="team1">HOME</string>
+    <string name="team2">GUEST</string>
+    <string name="ButtonAdd6ToScore">+6 (Touchdown)</string>
+    <string name="ButtonAdd3ToScore">+3 (FieldGoal)</string>
+    <string name="ButtonAdd1ToScore">+1 Point</string>
+    <string name="ButtonAdd2ToScore">+2 Points</string>
+    <string name="ButtonAddSafety2ToScore">+2 (Safety)</string>
+    <string name="ButtonReset">Reset Game</string>
+    <string name="DefaultValue">0</string>
+</resources>
